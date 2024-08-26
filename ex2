@@ -1,0 +1,6 @@
+Como é possível diferenciar as funções que têm retorno ou não? Como esses retornos estão sendo usados nessa 
+implementação? E quanto aos parâmetros? Implemente as funções, conforme os protótipos, e teste a função principal.
+
+R: As funções que forem chamadas por cout tem retorno. 
+Os retornos das funções estão sendo armazenados em variáveis, assim sendo valores que podem ser usados mais vezes.
+Os parametros indicam o tipo de valor e os que não tem, não nessecitam de parametro.

@@ -1,0 +1,6 @@
+No código do Exemplo 1 (página 5), explique a diferença entre o resultado das linhas 21 e 23. Também explique 
+o que aconteceria se a instrução da linha 23 fosse substituída por  cout << nome << endl;.
+
+R: A diferença é que na linha 21 ele printa o nome do jeito que a pessoa colocou. Já na linha 23, o programa 
+escreve toda primeira letra do nome em maiúsculo.
+Se substituir a linha 23 não saíra nada, pois a variável nome é somente usada na função "iniciais".
